@@ -13,7 +13,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7302.570962932958!2d90.35027497191162!3d23.772846356845026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c0bcdf50fd59%3A0x9ab0a63bb3267107!2sAdabar%2C%20Dhaka!5e0!3m2!1sen!2sbd!4v1589072627333!5m2!1sen!2sbd" width="100%" height="370" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3594.6249076599415!2d89.26023031433863!3d25.71684031673392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e32d990f75e973%3A0x46e8b6151615c6!2z4Kat4Ka-4Kaw4KeN4Ka44Ka_4Kaf4Ka_IOCml-Cnh-Cmnywg4Kas4KeH4Kaw4KeL4Kas4Ka_!5e0!3m2!1sen!2sbd!4v1634127346031!5m2!1sen!2sbd" width="100%" height="370" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
             <div class="col-md-6">
                 <h3 class="service-card-title">ঠিকানা</h3>
